@@ -1,7 +1,6 @@
 # website
 
-#This is new change
+This is new change
 Change from branch
 Hii update Branch
-Update locally
-Again Update remotely
+## Update Remotally before rebase
